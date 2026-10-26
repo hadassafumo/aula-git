@@ -12,7 +12,7 @@ public static void main(String [] args){
     int idade=anoactual-anodenascimento;
     System.out.println("o seu nome e:"+nome)
     System.out.println("A sua idade e:"+idade)
-    System.out.println("GITHUB!")
+    System.out.println("GITHUB FORK!")
     
  
    
